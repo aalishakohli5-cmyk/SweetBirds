@@ -1,4 +1,4 @@
-# 🐦 BirdHop
+# 🐦 SweetBirds
 
 BirdHop is a simple HTML webpage created for a course assignment. Visitors can click different bird emojis to hop to their information sections.
 
